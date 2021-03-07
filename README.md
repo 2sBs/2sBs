@@ -2,7 +2,7 @@
 
 I'm an amateur coder currently studying a Bachelor of IT at QUT.
 
-I also do stuff in esports as a match commentator/shoutcaster and co-host the CS:GO Round-Up podcast on Snowball Esports.
+I also do stuff in esports as a match commentator/shoutcaster and co-host the CS:GO Round-Up podcast on [Snowball Esports](https://snowballesports.com/).
 
 - 🌏 https://lutherminshull.com & https://its2sBs.com
 - 📽️ https://twitch.tv/2sBs
