@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Luther 👋
+
+I'm an amateur coder currently studying a Bachelor of IT at QUT.
+
+I also do stuff in esports as a match commentator/shoutcaster and co-host the CS:GO Round-Up podcast on Snowball Esports.
+
+- 🌏 https://lutherminshull.com & https://its2sBs.com
+- 📽️ https://twitch.tv/2sBs
+- ✉️ luther@lutherminshull.com
+- ⌨️ 2sBs#6575
+- 📷 http://instagram.com/luther.minshull
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&redirect=true)
 
 <!--
 **2sBs/2sBs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
