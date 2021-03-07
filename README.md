@@ -10,7 +10,7 @@ I also do stuff in esports as a match commentator/shoutcaster and co-host the CS
 - ⌨️ 2sBs#6575
 - 📷 http://instagram.com/luther.minshull
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&redirect=true)
 
 <!--
 **2sBs/2sBs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
