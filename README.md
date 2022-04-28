@@ -1,8 +1,8 @@
 # Hi there, I'm Luther 👋
 
-I'm a software developer based in Brisbane, Australia - currently in my final year of studying a Bachelor of IT (Computer Science major) at QUT. I love working with ReactJS, React Native, C#, Java and Python.
+I'm a software developer based in Brisbane, Australia - currently in my final year of studying a Bachelor of IT (Computer Science major) at QUT. 
 
-I also do stuff in esports as a match commentator/shoutcaster and co-host the CS:GO podcast 'Round-Up' on [Snowball Esports](https://snowballesports.com/).
+Outside of the IT sector, I'm also a commentator for CS:GO and VALORANT - working with a number of local and international tournament organisers to provide quality analysis and casting, aiming to elevate any broadcasts I'm on and put on the best show possible!
 
 - 🌏 https://lutherminshull.com & https://its2sBs.com
 - 💼 https://www.linkedin.com/in/lutherminshull/
