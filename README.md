@@ -1,12 +1,14 @@
 # Hi there, I'm Luther 👋
 
-I'm an amateur coder currently studying a Bachelor of IT at QUT. I like working with JavaScript (especially with ReactJS) and C# :)
+I'm a software developer based in Brisbane, Australia - currently in my final year of studying a Bachelor of IT (Computer Science major) at QUT. I love working with ReactJS, React Native, C#, Java and Python.
 
 I also do stuff in esports as a match commentator/shoutcaster and co-host the CS:GO podcast 'Round-Up' on [Snowball Esports](https://snowballesports.com/).
 
 - 🌏 https://lutherminshull.com & https://its2sBs.com
-- 📽️ https://twitch.tv/2sBs
+- 💼 https://www.linkedin.com/in/lutherminshull/
+- 📱 https://twitter.com/LutherMinshull
 - ✉️ luther@lutherminshull.com
+- 📽️ https://twitch.tv/2sBs
 - ⌨️ 2sBs#6575
 - 📷 http://instagram.com/luther.minshull
 
