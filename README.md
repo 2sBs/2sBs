@@ -1,6 +1,8 @@
 # Hi there, I'm Luther 👋
 
-I'm a software developer based in Brisbane, Australia - currently in my final year of studying a Bachelor of IT (Computer Science major) at QUT. 
+I'm a software developer based in Brisbane, Australia - currently in my final year of studying a Bachelor of IT (Computer Science major) at QUT, including the completion of a Capstone project for an external client. 
+
+I'm proficient with web application development in JavaScript, including React and React Native development - alongside cross-platform development in C#, Java and Python.
 
 Outside of the IT sector, I'm also a commentator for CS:GO and VALORANT - working with a number of local and international tournament organisers to provide quality analysis and casting, aiming to elevate any broadcasts I'm on and put on the best show possible!
 
