@@ -1,6 +1,6 @@
 # Hi there, I'm Luther 👋
 
-I'm a software developer based in Brisbane, Australia - currently in my final year of studying a Bachelor of IT (Computer Science major) at QUT, including the completion of a Capstone project for an external client. 
+I'm a software developer based in Brisbane, Australia - currently in my final year of studying a Bachelor of IT (Computer Science major) at QUT.
 
 I'm proficient with web application development in JavaScript, including React and React Native development - alongside cross-platform development in C#, Java and Python.
 
