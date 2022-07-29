@@ -8,7 +8,7 @@ Outside of the IT sector, I'm also a commentator for CS:GO and VALORANT - workin
 
 - 🌏 https://lutherminshull.com & https://its2sBs.com
 - 💼 https://www.linkedin.com/in/lutherminshull/
-- 📱 https://twitter.com/LutherMinshull
+- 📱 https://twitter.com/LutherMinshull & https://twitter.com/its2sBs
 - ✉️ luther@lutherminshull.com
 - 📽️ https://twitch.tv/2sBs
 - ⌨️ 2sBs#6575
