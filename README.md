@@ -11,7 +11,7 @@ Outside of the IT sector, I'm also a commentator for Counter-Strike and VALORANT
 - 📱 https://twitter.com/LutherMinshull & https://twitter.com/its2sBs
 - ✉️ luther@lutherminshull.com
 - 📽️ https://twitch.tv/2sBs
-- ⌨️ Discord: @2sBs
+- ⌨️ Discord: @2sbs
 - 📷 http://instagram.com/luther.minshull
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&redirect=true)
