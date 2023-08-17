@@ -12,7 +12,7 @@ Outside of the IT sector, I'm also a Counter-Strike commentator - working with a
 - ✉️ luther@lutherminshull.com
 - 📽️ https://twitch.tv/2sBs
 - ⌨️ Discord: @2sbs
-- 📷 http://instagram.com/luther.minshull
+- 📷 http://instagram.com/its2sBs
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&redirect=true)
 
