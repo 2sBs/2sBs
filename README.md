@@ -7,6 +7,7 @@ I'm proficient with web application development in JavaScript/TypeScript, includ
 Outside of the IT sector, I'm also a Counter-Strike commentator - working with a number of local and international tournament organisers to provide quality analysis and casting, aiming to elevate any broadcasts I'm on and put on the best show possible!
 
 - 🌏 https://lutherminshull.com & https://its2sBs.com
+- 🗓️ https://cal.com/lutherminshull
 - 💼 https://www.linkedin.com/in/lutherminshull/
 - 📱 https://twitter.com/LutherMinshull & https://twitter.com/its2sBs
 - ✉️ luther@lutherminshull.com
