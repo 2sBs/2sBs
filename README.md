@@ -15,5 +15,5 @@ Outside of the IT sector, I'm also a Counter-Strike commentator - working with a
 - ⌨️ Discord: @2sbs
 - 📷 http://instagram.com/its2sBs
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2sbs&redirect=true)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=its2sBs)](https://www.last.fm/user/its2sBs)
 
