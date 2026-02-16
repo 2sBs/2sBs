@@ -1,8 +1,8 @@
 # Hi there, I'm Luther 👋
 
-I'm a software developer based in Brisbane, Australia - currently studying a Bachelor of IT (Computer Science major) at QUT. I'm also a full-time web developer at [Jaden Digital](https://jadendigital.com.au)!
+I'm a software developer based in Brisbane, Australia - currently working as a full-time web developer at [Jaden Digital](https://jadendigital.com.au)! I'm a QUT graduate with a Bachelor of Information Technology (Computer Science major).
 
-I'm proficient with web application development in JavaScript/TypeScript, including React, React Native and Next.js - alongside cross-platform development in C#, Java and Python. While I'm working as a front-end developer, I'm also confident in my abilities as a full-stack dev.
+I'm proficient with application development in JavaScript/TypeScript, including React, React Native and Next.js - alongside cross-platform development in C#, Java and Python. I'm highly proficient with AI tools and agentic development, and experienced in working with large-scale projects across a full development stack.
 
 Outside of the IT sector, I'm also a Counter-Strike commentator - working with a number of local and international tournament organisers to provide quality analysis and casting, aiming to elevate any broadcasts I'm on and put on the best show possible!
 
